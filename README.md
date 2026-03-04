@@ -1,4 +1,4 @@
-# Leave_Calendar_Dashboard-
+# Leave_Calendar_Dashboard
 This project leverages Microsoft SharePoint as the central data source for storing employee leave records, and utilizes Microsoft Power Apps to develop a dynamic, calendar-based interface that visually displays team members’ vacation schedules in an intuitive and interactive format.
 <img width="1414" height="792" alt="image" src="https://github.com/user-attachments/assets/c9bbd2cb-967f-4b10-9b70-1f7bf1d7db2d" />
 Key Features:
